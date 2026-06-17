@@ -17,8 +17,7 @@
 #          even.append([i])
 #     else:
 
-         
-print("hello")
+        
     
 
    
